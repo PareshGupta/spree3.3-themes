@@ -3,7 +3,7 @@ lock "3.8.2"
 
 set :application, "vinsol_spree_themes"
 set :repo_url, "git@github.com:PareshGupta/spree3.3-themes.git"
-set :use_sudo, false
+set :use_sudo, true
 set :keep_releases, 5
 set :format, :pretty
 set :log_level, :debug
