@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/parshgupta/Desktop/SPREE/extensions/spree-themes
+GIT
+  remote: https://github.com/vinsol-spree-contrib/spree_themes
+  revision: 009a4709504c71fe447c907aa2f24953f9cf2608
+  branch: 3-3-bump
   specs:
     vinsol_spree_themes (0.0.1)
       rubyzip (~> 1.2.1)
