@@ -65,5 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # FIX_ME_PG:- Need to include the gem for sprockets. (preview functionality)
 gem 'sprockets-helpers', '~> 1.2.1'
 
-gem 'vinsol_spree_themes', git: 'https://github.com/vinsol-spree-contrib/spree_themes', branch: '3-3-bump'
+gem 'vinsol_spree_themes', git: 'https://github.com/vinsol-spree-contrib/spree_themes', branch: '3-3-stable'
 # gem 'vinsol_spree_themes', path: '/Users/parshgupta/Desktop/SPREE/extensions/spree-themes'
