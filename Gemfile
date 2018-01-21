@@ -18,8 +18,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 
 gem 'spree', '~> 3.3.0'
-gem 'spree_auth_devise', '~> 3.2.0'
-gem 'spree_gateway', '~> 3.2.0'
+gem 'spree_auth_devise', '~> 3.3'
+gem 'spree_gateway', '~> 3.3'
 
 # See https://github.com/rails/execjs#readme for more supported runtimes
 gem 'therubyracer', platforms: :ruby
@@ -65,5 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # FIX_ME_PG:- Need to include the gem for sprockets. (preview functionality)
 gem 'sprockets-helpers', '~> 1.2.1'
 
-gem 'vinsol_spree_themes', git: 'https://github.com/vinsol-spree-contrib/spree_themes', branch: '3-3-stable'
+gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: '3-3-stable'
 # gem 'vinsol_spree_themes', path: '/Users/parshgupta/Desktop/SPREE/extensions/spree-themes'
